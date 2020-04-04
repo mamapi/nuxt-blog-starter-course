@@ -4,9 +4,6 @@ date: 2020-04-04T11:30:20.686Z
 imgURL: /img/tablet_rece.png
 desc: asfdsfsdfsdf
 ---
-<!--StartFragment-->
-
-```
 # In bella mors per vulnifico dolentibus fatis
 
 ## Ubi volucres qui visa Troiae merui
@@ -55,6 +52,3 @@ pollice fleturi has inferias servanda conatur offensane prohibente. Neve sonitu
 qui vos, cum materno *notam Idaeumque* Troiae **luctisono nam** praetemptatque
 rationis. Aetne tellus, sibi servabunt aperto incumbens recurva socerque
 dederis, facite super criminis crevit: et repulsa arborei, fletu.
-```
-
-<!--EndFragment-->
